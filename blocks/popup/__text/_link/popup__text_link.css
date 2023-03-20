@@ -1,0 +1,9 @@
+.popup__text_link {
+  color: blueviolet;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.popup__text_link:hover {
+opacity: 0.5;
+}
